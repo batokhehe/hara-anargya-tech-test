@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\hara_anargya_test.props" />
+</Project>
